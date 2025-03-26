@@ -1,7 +1,7 @@
 # Auto-generated file - do not modify
 [build]
-  command = 'npm run build:example'
-  publish = 'countfromzero'
+  command = 'npm run build'
+  publish = 'public'
 
   [build.environment]
     DART_SASS_VERSION = '1.78.0'
