@@ -1,0 +1,5 @@
+baseURL = 'https://countfromzero.com/'
+languageCode = 'en-us'
+title = 'MSIAT'
+[[module.imports]]
+path = 'github.com/gethinode/hinode'
