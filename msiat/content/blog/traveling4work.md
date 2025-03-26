@@ -2,7 +2,7 @@
 author: msiat
 title: Opportunity and Belonging
 date: 2025-03-21
-description: An interns first work trip; Lessons in Asking and Belonging
+description: "An Intern's First Work Trip: Lessons in Asking and Belonging"
 tags: ["work trip", "poser programmer", "kindness"]
 thumbnail:
   url: /img/suntree.jpeg
@@ -23,7 +23,7 @@ After following along with the surprisingly up-to-date documentation to learn ab
 - What business do I have attending this meeting?
 - What will my presence actually supply?
 
-In trying to unbind myself, the manager agreed to meet with me for a quick five _mints_ at my request. This time, listening to the part of me that once was excited to go, she said that it would be a good experience, a great chance to meet other team members and also visit the new location. She adds that people are the most expensive check we have around here, and you get to learn and be trained, which is the best use of funds.
+In trying to unbind myself, the manager agreed to meet with me for a quick _five mints_ at my request. This time, listening to the part of me that once was excited to go, she said that it would be a good experience, a great chance to meet other team members and also visit the new location. She adds that people are the most expensive check we have around here, and you get to learn and be trained, which is the best use of funds.
 
 ---
 
@@ -79,4 +79,4 @@ Would you lie with me and just forget the world? {{< fas music fa-1x >}}
 
 Finishing his post, I play with the idea that I do not want to code anymore. Laughable considering I stand to graduate in 5 Weeks with an MS in CS and a Concentration in Cybersecurity. I love programming and problem-solving. But I struggle now to think I am done with it. With more reflection and as the song continues, I see that I can not forget my world. My world is one of puzzles and mystery, and I gladly get stuck because that feeling of finding the answer lends such incredible moments of satisfaction. My goal in this field has always been to be the brightest, most capable version of myself. With the lyrics fading out, my resolve grows stronger. My fleeting lack of wanting to continue as a developer was a fear of failure conflated with passion. Instead, it is the case that I want to be like him. I hope to one day write an email that says I am one of the strongest developers in the department, as he did. I am scared I may not get there, but I can try. The goal is to be tentative in my decisions but not let them prevent me from trying. I should make mistakes. I should get red errors and have my terminal scream at me. I should break my code so that the only way around it is to start over and, in doing so, learn what to do next time. Then, start again with different mistakes and lessons to learn. Again.
 
--obna {{< fas user-group fa-1x fa-flip>}}
+-msiat (my sister is a techie){{< fas user-group fa-1x fa-flip>}}
