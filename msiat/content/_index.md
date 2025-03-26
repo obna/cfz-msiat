@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Sister is a Techie!"
+title: "My Sister is a Techie!"
 description: A countfromzero blog.
 thumbnail:
     url: img/purpleLanding.jpg
