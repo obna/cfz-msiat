@@ -14,7 +14,7 @@ I am on the way home from my _very first Work trip_.
 How exciting it was to have even had the opportunity.
 
 My first internship has reached 10 months and counting.
-In a standard weekly, my project lead and another team member were discussing the on-site. She, the team member, asked me if I was to attend. This being the first I have heard of it, my response is negative, and she suggests speaking with our manager.
+In a standing weekly meeting, my project lead and another team member were discussing the upcoming on-site meeting. She, the team member, asked me if I was to attend. This being the first I have heard of it, my response is no, and she suggests speaking with our manager.
 It felt weird asking my manager about being able to attend the meeting. It feels weird asking her for anything at all. She is very quick and speedy, and I register my questions as molasses that will slow her down. She says **yes**.
 
 After following along with the surprisingly up-to-date documentation to learn about booking and travel, and then having selected an expensive flight, a cozy hotel, and a darty rental car, a knot of doubt surrounded me.
@@ -39,7 +39,7 @@ In this room, on three sides made of glass, is a conference table and chairs, co
 
 ##### Work Day 2/2
 
-_10 Minutes early_ Today is a different room, a larger amount of people, and this day, there are not enough seats for everyone at the conference table. With a squeak of the chair, the doubt knot creeps up around me, and I am taunted by my thoughts over and over of the idea that someone else should have my seat. At this moment, I am no longer a developer but a seattaker. Today, with a new agenda and questions from yesterday that were asked but not answered, I was indexing my mind for things to ask. Good interns to that, right? The default resolution for me is to come up with ‘W' questions: who, what... I find a ‘Why' question and proceed to share it. The context of the question left in the room, asking it, leads to about an hour-long conversation with others piggybacking on. A home run of a question, if you ask me!
+_10 Minutes early_ Today is a different room, a larger amount of people, and this day, there are not enough seats for everyone at the conference table. With a squeak of the chair, the doubt knot creeps up around me, and I am taunted by my thoughts over and over of the idea that someone else should have my seat. At this moment, I am no longer a developer but a seattaker. Today, with a new agenda and questions from yesterday that were asked but not answered, I was indexing my mind for things to ask. Good interns do that, right? The default resolution for me is to come up with ‘W' questions: who, what... I find a ‘Why' question and proceed to share it. The context of the question left in the room, asking it, leads to about an hour-long conversation with others piggybacking on. A home run of a question, if you ask me!
 
 Throughout this day, I watched the PI to get to know him better. I watched his face as attendees made it cringe or shake in disagreement. He knew that some things said were the wrong way to move forward. He intervened when necessary; other times, it seemed he had to let things and the following decisions be left for the continuing party to fix the problems that began here. He knew his time was over, yet, even on his way out, he was courteous and loving to the project that he carried.
 
